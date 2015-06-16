@@ -2,16 +2,21 @@
 
 Estudo de grafos e suas aplicações
 
-## Tipos
+## Organização
 
-## Algorítmos
+grafo.h ("Interface" padrão para a construção de grafos)
+grafo_lista.c (Implementação em lista de adjacências)
+grafo_matriz.c (Implementação em matriz de adjacências)
 
-### Estruturais
+### Estruturas (Auxiliares)
 
-### Busca
+- lista.h (Implementação de uma lista ligada)
+- fila.h
+- pilha.h
+	
+### Exercícios
 
-#### Profundidade
-
-#### Largura
-
-#### Dijstra
+- algoritmos_matriz.c
+- algoritmos_lista.c
+- main.c (Use para testar os exercícios.
+	**Importante mudar o cabeçalho - matriz ou lista - para evitar conflito)**
