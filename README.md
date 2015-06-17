@@ -4,15 +4,15 @@ Estudo de grafos e suas aplicações
 
 ## Organização
 
-grafo.h ("Interface" padrão para a construção de grafos)
-grafo_lista.c (Implementação em lista de adjacências)
-grafo_matriz.c (Implementação em matriz de adjacências)
+* **grafo.h** ("Interface" padrão para a construção de grafos)
+* **grafo_lista.c** (Implementação em lista de adjacências)
+* **grafo_matriz.c** (Implementação em matriz de adjacências)
 
 ### Estruturas (Auxiliares)
 
-- lista.h (Implementação de uma lista ligada)
-- fila.h
-- pilha.h
+- **lista.h** (Implementação de uma lista ligada)
+- **fila.h**
+- **pilha.h**
 	
 ### Exercícios
 
